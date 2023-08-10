@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubCoPilot.FunctionAppPOC", "GitHubCoPilot.FunctionAppPOC\GitHubCoPilot.FunctionAppPOC.csproj", "{83609E06-0EE0-4B24-A7D0-61DCC6A97CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubCopilot.AzureTableOperation", "GitHubCopilot.AzureTableOperation\GitHubCopilot.AzureTableOperation.csproj", "{C8150AE0-C3B1-4645-BF99-932EAF43BCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83609E06-0EE0-4B24-A7D0-61DCC6A97CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83609E06-0EE0-4B24-A7D0-61DCC6A97CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83609E06-0EE0-4B24-A7D0-61DCC6A97CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83609E06-0EE0-4B24-A7D0-61DCC6A97CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8150AE0-C3B1-4645-BF99-932EAF43BCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8150AE0-C3B1-4645-BF99-932EAF43BCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8150AE0-C3B1-4645-BF99-932EAF43BCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8150AE0-C3B1-4645-BF99-932EAF43BCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1DF9BA-0728-412F-BDBF-E789507625D2}
+	EndGlobalSection
+EndGlobal
